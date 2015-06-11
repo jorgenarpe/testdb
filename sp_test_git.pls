@@ -1,4 +1,4 @@
-CREATE OR REPLACE PROCEDURE sp_test_git AS
+CREATE OR REPLACE PROCEDURE SP_TEST_GIT AS
 BEGIN
   dbms_output.put_line('Probando la funcionalidad de SQL Developer y Github');
-END sp_test_git;
+END SP_TEST_GIT;
